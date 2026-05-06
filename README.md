@@ -157,7 +157,3 @@ flutter pub get
 flutter pub run flutter_launcher_icons
 
 ### Application Features
-
----
-
-### Figma Design for [somi-mobile](https://www.figma.com/file/E60FjVmMT93CF4yQoWCEAO/Somi?type=design&node-id=0-1&mode=design&t=RujPyHT7K54If1i9-0) application
