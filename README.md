@@ -7,7 +7,10 @@ A Flutter app that simplifies the visa application process
 
 ## 📱 Screenshots
 
-> _Add your screenshots here: `/screenshots/home.png`, `/screenshots/agent.png`, etc._
+<img width="3218" height="930" alt="Group 40966" src="https://github.com/user-attachments/assets/98eebae1-1e46-4a64-a4e0-f780c7890df5" />
+<img width="3248" height="1414" alt="Group 40967" src="https://github.com/user-attachments/assets/2917b79b-750e-46cd-beb0-9f606718d5e1" />
+<img width="1441" height="1277" alt="Group 40968" src="https://github.com/user-attachments/assets/6bfd1318-6ab1-4e46-beaf-802bea5fba2c" />
+<img width="6646" height="1865" alt="Group 40969" src="https://github.com/user-attachments/assets/4f32564b-9552-4b4d-9732-c595e80acd17" />
 
 ---
 
